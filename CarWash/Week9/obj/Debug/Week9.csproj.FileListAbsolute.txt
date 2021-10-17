@@ -1,0 +1,9 @@
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\bin\Debug\Week9.exe.config
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\bin\Debug\Week9.exe
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\bin\Debug\Week9.pdb
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.csprojAssemblyReference.cache
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.Form1.resources
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.Properties.Resources.resources
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.csproj.GenerateResource.cache
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.exe
+e:\Users\mnn12\Documents\VIsual Studio C#\week9\CarWash\Week9\obj\Debug\Week9.pdb
